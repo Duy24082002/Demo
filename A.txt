@@ -1,1 +1,1 @@
-this is file A.txt
+this is file A.txt bb
